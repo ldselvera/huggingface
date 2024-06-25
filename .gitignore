@@ -119,6 +119,7 @@ notebook/labextension
 notebook/schemas
 docs/source/changelog.md
 docs/source/contributing.md
+rotten_tomates_data/
 
 # playwright
 ui-tests/test-results
